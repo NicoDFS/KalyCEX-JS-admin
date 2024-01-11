@@ -1,1 +1,4 @@
-# KalyCEX-JS-admin
+# KalyCEX Admin
+
+## License
+Apache License, Version 2.0
